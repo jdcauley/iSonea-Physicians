@@ -33,9 +33,22 @@ body{
 }
 
 /* Header */
-
+.logo{
+  margin-top: 20px;
+  padding-left: 30px;
+  img{
+    height: 54px;
+    width: auto;
+  }
+}
 .tagline{
-  display: inline-block;
+  display: none;
+  color: rgba(255,255,255,.7);
+  font-size: 12px;
+  font-weight: 100;
+  padding-left: 10px;
+  margin-left: 10px;
+  border-left: 1px solid rgba(255,255,255,.7);
 }
 
 .navbar-isonea{
@@ -63,6 +76,7 @@ body{
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1), 0 1px 1px rgba(0, 0, 0, 0.3);
   padding: 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px -1px 0px;
+  margin-bottom: 0;
   .navbar-nav>li>a{
     color: @white;
     font-size: 12px;
@@ -73,13 +87,13 @@ body{
     font-size: 10px;
   }
 }
-.navbar-nav.nav-justified {
-    display:table;
+.navbar-nav.nav-justified{
+  display:table;
 }
 
-.navbar-nav.nav-justified > li{
-    float:none;
-    width:auto;
+.navbar-nav.nav-justified>li{
+  float:none;
+  width:auto;
 }
 
 .social-links{
@@ -87,13 +101,79 @@ body{
   .pull-right;
   li{
     display: inline-block;
-    margin-left: 5px;
+    margin-left: 1px;
     margin-top: 20px;
   } 
 }
 /* Layout */
+.subheader{
+  color: @white;
+  font-size: 40px;
+  .center;
+  margin-top: 0;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background: rgb(134,182,37);
+  background: -moz-linear-gradient(top, rgba(134,182,37,1) 50%, rgba(102,138,29,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,rgba(134,182,37,1)), color-stop(100%,rgba(102,138,29,1)));
+  background: -webkit-linear-gradient(top, rgba(134,182,37,1) 50%,rgba(102,138,29,1) 100%);
+  background: -o-linear-gradient(top, rgba(134,182,37,1) 50%,rgba(102,138,29,1) 100%);
+  background: -ms-linear-gradient(top, rgba(134,182,37,1) 50%,rgba(102,138,29,1) 100%);
+  background: linear-gradient(to bottom, rgba(134,182,37,1) 50%,rgba(102,138,29,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#86b625', endColorstr='#668a1d',GradientType=0 );
+  border-radius: 0 0 0 0 !important;
+  -webkit-border-radius: 0 0 0 0 !important;
+  -moz-border-radius: 0 0 0 0 !important;
+}
+.white{
+  background-color: @white;
+  padding-top: 60px;
+}
+.papers{
+  padding-left: 20px;
+  padding-right: 20px;
+  img{
+    margin-bottom: 15px;
+  }
+}
+.side-nav{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.isonea-side-nav{
+  list-style: none;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  li{
+    margin-bottom: 10px;
+    a{
+      font-weight: 400;
+    }
+  }
+}
+.main-copy{
+  padding-left: 20px;
+  padding-right: 20px;
+  h1{
+    font-size: 16px;
+    font-weight: 600;
+  }
+  p{
+    font-size: 12px;
+  }
+}
+.navbar-isonea .navbar-nav>.open>a, .navbar-isonea .navbar-nav>.open>a:hover, .navbar-isonea .navbar-nav>.open>a:focus {
+  background-color: #080808;
+  color: #fff;
+}
 
-
+.navbar-isonea .navbar-nav>li>a{
+  &:hover{
+    background-color: #080808;
+    color: #fff;
+   }
+ }
 /* Home */
 
 
@@ -107,11 +187,26 @@ body{
     Extra small devices (phones, up to 480px) No media query since this is the default in Bootstrap */
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm) {}
+@media (min-width: @screen-sm) {
+
+}
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md) {}
+@media (min-width: @screen-md) {
+  .tagline{
+   display: inline-block;
+  }
+  .nav>li>a{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg) {}
+@media (min-width: @screen-lg) {
+    .nav>li>a{
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
 

@@ -1,16 +1,7 @@
 {
   "domains": [""],
   "globals": {
-    "site_title": "ember",
-    "twitter": "HarpPlatform",
-    "site_url": "http://jdcauley.github.io",
-    "disqus": {
-      "enabled": false,
-      "shortname": ""
-    },
-    "chatterli": {
-      "enabled": true,
-      "container": ".main"
-    }
+    "site_title": "iSonea Physicians",
+    "site_url": "http://localhost:9000"
   }
 }
