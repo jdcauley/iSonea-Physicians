@@ -1,0 +1,16 @@
+{
+  "domains": [""],
+  "globals": {
+    "site_title": "ember",
+    "twitter": "HarpPlatform",
+    "site_url": "http://jdcauley.github.io",
+    "disqus": {
+      "enabled": false,
+      "shortname": ""
+    },
+    "chatterli": {
+      "enabled": true,
+      "container": ".main"
+    }
+  }
+}
