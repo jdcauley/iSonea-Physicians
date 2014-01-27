@@ -5,8 +5,8 @@ html.no-js.boxed-layout.skin-black.std-selector(lang='en')
     meta(content='text/html; charset=UTF-8', http-equiv='content-type')
     title iSonea
     meta(name='viewport', content='width=device-width,initial-scale=1, maximum-scale=1')
-    link(href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700', rel='stylesheet', type='text/css')
-    link(rel="stylesheet", href="/assets/css/app.css").
+    link(href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700', rel='stylesheet', type='text/css').
+    link(rel="stylesheet", href="#{site_url}/assets/css/app.css").
 
             
 
@@ -15,8 +15,20 @@ html.no-js.boxed-layout.skin-black.std-selector(lang='en')
     .top-bg
     != partial("_partials/header")
     != yield
+    
+    != partial("_partials/footer")
 
   
   script(src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js").
-  script(src="assets/js/bootstrap.min.js").
-  script(src="assets/js/app.js").
+  script(src="#{site_url}/assets/js/bootstrap.min.js").
+  script(src="#{site_url}/assets/js/app.js").
+  script(src="#{site_url}/assets/js/socialite.js").
+  script(type="text/javascript").
+    $(document).ready(function()
+      {
+        $('.social-share').one('mouseenter', function()
+          {
+            Socialite.load($(this)[0]);
+          });
+        });
+
