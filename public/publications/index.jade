@@ -1,0 +1,18 @@
+main
+  section.container
+    .subheader
+      h1 Publications
+
+  section.container
+    .white
+      .row
+        .col-sm-12
+          .publications
+            each publication, slug in public.publications.arm._data
+              
+                h4 #{ publication.title }
+            
+            
+            each presentation, slug in public.publications.presentations._data
+              
+                h4 #{ presentation.title }
