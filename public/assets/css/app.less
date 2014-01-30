@@ -16,7 +16,9 @@
   margin-left: auto;
   margin-right: auto;
 }
-
+ul{
+  list-style: none;
+}
 /* Tags */
 
 body{
@@ -236,6 +238,23 @@ body{
 .publications{
   padding-left: 40px;
   padding-right: 40px;
+}
+
+.publications{
+  ul{
+    list-style: none;
+    li{
+      padding-top: 5px;
+      padding-bottom: 5px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      border-bottom: 1px solid @brand-primary;
+      &:last-child{
+        border-bottom: none;
+      }
+    }
+
+  }
 }
 /*  Media Queries
     Extra small devices (phones, up to 480px) No media query since this is the default in Bootstrap */

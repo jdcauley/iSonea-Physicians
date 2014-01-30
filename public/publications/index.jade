@@ -8,11 +8,26 @@ main
       .row
         .col-sm-12
           .publications
-            each publication, slug in public.publications.arm._data
-              
-                h4 #{ publication.title }
+            h3 ARM Publications
             
+            ul
+              each publication, slug in public.publications.arm._data
+                li 
+                  p #{ publication.file }
+                  a(href="#{ site_url }/#{ publication.filepath }/#{ publication.filename }") #{ publication.title }
+                  p #{ publication.citation }
             
-            each presentation, slug in public.publications.presentations._data
-              
-                h4 #{ presentation.title }
+            hr
+            
+            h3 Physician Presentation References
+            ul
+              each presentation, slug in public.publications.presentations._data
+                if presentation.nofile
+                  li  
+                    p #{ presentation.title }
+                    p We're sorry we do not have a file for download
+                else
+                  li  
+                    p #{ presentation.file }
+                    a(href="#{ site_url }/#{ presentation.filepath }/#{ presentation.filename }") #{ presentation.title }
+                    p #{ presentation.citation }
