@@ -2,6 +2,6 @@
   "domains": [""],
   "globals": {
     "site_title": "iSonea Physicians",
-    "site_url": "jdcauley.github.io/iSonea-Physicians/www/"
+    "site_url": "http://localhost:9000"
   }
 }

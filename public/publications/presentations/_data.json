@@ -7,14 +7,14 @@
     "nofile": ""
   },
   "2": {
-    "title": "AIR 2013 Asthma Insights Research Report",
+    "title": "A mobile telephone-based interactive self-care system improves asthma control",
     "citation": "Liu WT, Huang CD, et al; Euro Resp Jour 2011; 37(2): 310-317",
     "filepath": "assets/publications",
     "filename": "2_ISN-Liu-Huang-et-al-Euro-Resp-Journ-2011-310-full.pdf",
     "nofile": ""
   },
   "3": {
-    "title": "A mobile phone short message service improves pereived control of asthma: a randomized controlled trial.",
+    "title": "A mobile phone short message service improves perceived control of asthma: a randomized controlled trial.",
     "citation": "Lv Y, Zhao H, et al; Telemed and e-Health 2012; 18(6): 420-426",
     "filepath": "assets/publications",
     "filename": " 3_ISN-Lv-Zhao-A-mobile-phone-short-message-serv-Telemed-J-E-Health-2012-Jul-Aug-Abstract-PubMed-NCBI.htm",
@@ -63,7 +63,7 @@
     "nofile": ""
   },
   "10": {
-    "title": "Communication During Pediatric Asthma Visists and Self-Reported Asthma Medication Adherence",
+    "title": "Communication During Pediatric Asthma Visits and Self-Reported Asthma Medication Adherence",
     "citation": "Sleath B, Carpenter DM, et al; Pediatrics 2012; 130(4): 627-633",
     "filepath": "assets/publications",
     "filename": "10_ISN-Sleath-Pediatrics-2012-627-full.pdf",
@@ -84,14 +84,14 @@
     "nofile": ""
   },
   "13": {
-    "title": "Relationship of Wheezing to the Severity of Obstruction in Asthma",
+    "title": "Relationship of Wheezing to the Severity of Obstruction in Asthma.",
     "citation": "Shim CS, Williams MH; Arch Intern Med 1983; 143: 890-892",
     "filepath": "assets/publications",
     "filename": "13ISN-Shim-Williams-Archives.htm",
     "nofile": ""
   },
   "14": {
-    "title": "Bronchial provocation determined by breath sounds compared with lung function",
+    "title": "Bronchial provocation determined by breath sounds compared with lung function.",
     "citation": "Avital A, Bar-Yishay E, et al; Arch Dis Child 1991; 66: 952-955",
     "filepath": "assets/publications",
     "filename": "14_ISN-Avital-Noviski-Arch-Dis-Child-1991-Noviski-952-5.pdf",
@@ -112,7 +112,7 @@
     "nofile": ""
   },
   "17": {
-    "title": "Joint modeling of parentally reported and physician-confirmed wheeze identifies children with persistent troublesome wheezing",
+    "title": "Joint modeling of parentally reported and physician-confirmed wheeze identifies children with persistent troublesome wheezing.",
     "citation": "Belgrave DCM, Simpson A, et al; J Allergy Clin Immunol 2013; 132(3): 575-583",
     "filepath": "assets/publications",
     "filename": "17_ISN-Belgrave-et-al-parental-reported-and-physician-verified-wheeze-in-kids.pdf",
@@ -126,14 +126,14 @@
     "nofile": ""
   },
   "19": {
-    "title": "Comparison of the acoustic properties of six popular stethoscopes",
+    "title": "Comparison of the acoustic properties of six popular stethoscopes.",
     "citation": "Abella M, Formolo J, et al; J Acoust Soc Am 1992; 91: 2224-2228",
     "filepath": "assets/publications",
     "filename": "19_ISN Abella-Formolo.htm",
     "nofile": ""
   },
   "20": {
-    "title": "Standardization of computerized respiratory sound analysis",
+    "title": "Standardization of computerized respiratory sound analysis.",
     "citation": "Charbonneau G, Dalmasso F, et al; Euro Resp Rev 2000; 77: 591-596",
     "filepath": "assets/publications",
     "filename": "20_ISN CORSA-Charbonneau-et-al.pdf",
@@ -146,7 +146,7 @@
     "filename": "",
     "nofile": "true"
   },
-  "20": {
+  "22": {
     "title": "Automated Spectral Characterization of Wheezing in Asthmatic Children",
     "citation": "Chernick V, Fenton TR, et al; IEEE Trans Biomed Eng 1985; 32: 50-55",
     "filepath": "assets/publications",

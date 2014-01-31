@@ -26,9 +26,7 @@ html.no-js.boxed-layout.skin-black.std-selector(lang='en')
   script(type="text/javascript").
     $(document).ready(function()
       {
-        $('.social-share').one('mouseenter', function()
-          {
-            Socialite.load($(this)[0]);
-          });
+        
+            Socialite.load('.social-share');
         });
 
