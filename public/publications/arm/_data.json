@@ -1,35 +1,88 @@
 {
   "1": {
+      "title": "Children with Nocturnal Asthma Wheeze Intermittently During Sleep",
+      "citation": "Boner, A., Placentini, G., Peroni, D., Irving, C., Goldstein, D., Gavriely, N., Godfrey, S.; Journal of Asthma 2010; 47:290-294",
+      "filepath": "assets/publications/ARM-PUBS",
+      "filename": "KSX-Boner-et-al-Jour-asthma-2010.pdf"
+  },
+  
+  "2": {
+    "title": "Validation of an ambulatory cough detection and county application using voluntary cough under different conditions",
+    "citation": "Vizel, E., Yigla, M., Goryachev, Y., Dekel, E., Felis, V., Levi, H., Kroin, I., Godfrey, S., Gavriely, N.; Cough 2010; 6:3",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-VISEL-FULL-ARTICLE-COUGH-VOL-6-2010-1745-9974-6-3.PDF"
+  },
+  
+  "3": {
+    "title": "Wheeze Detection in the Pediatric Intensive Care Unit: Comparison Among Physician, Nurses, Respiratory Therapists, and a Computerized Respiratory Sound Monitor",
+    "citation": "Prodhan, P., Dela Rosa, R., Shubina, M., Haver K., Matthews, B., Buck, S., Kacmarek, R., Noviski, N.; Respiratory Care 2008; 53 (10)",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Prodhan-ARM-in-Neonatal-icu-resp-care-2008.pdf"
+  },
+
+  "4": {
+    "title": "Computerized acoustic assessment of treatment efficacy of nebulized epinephrine and albuterol in RSV bronchiolitis",
+    "citation": "Beck, R., Elias, N., Shoval, S., Tov, N., Talmon, G., Godfrey, S., Bentur, L.; BMC Pediactrics 2007; 7:22",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "ksx-beck-bmc-pediatrics-2007-computerized-acoustic-assessment.pdf"
+  },
+
+  "5": {
+    "title": "Timing and Nature of Wheezing at the Endpoint of a Bronchial Challenge in Preschool Children",
+    "citation": "Godfrey, S., Cohen, S., Avital, A., Springer, C.; Pediatric Pulmonology 2005; 39:262-272",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "ksx-godfrey-study-2005-wheeze-timing-at-endpoint-of-brohchial-challenge-in-preschool.pdf"
+  },
+  "6": {
+    "title": "Methacholine bronchial provocation measure by spirometry versus wheeze detection in preschool children",
+    "citation": "Bentur, L., Beck, R., Elias, N., Barak, A., Efrati, O., Yahav, Y., Vilozni, D.; BMC Pediatrics 2005; 5:19",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "ksx-bentur-bmc-pediatric-2005-methacholine-bronchial-provocation.pdf"
+  },
+  
+  "7": {
     "title": "Wheeze Detection: Recordings vs. Assessment of Physician and Parent",
     "citation": "Levy, M. L., Godfrey, S., Irving, C. S., Sheikh, A., Hanekom, W., Nurses, Ambulatory Care, Bush, A. and Lachman, P.; Journal of Asthma 2004; 41 (8), 845 - 853",
     "filepath": "assets/publications/ARM-PUBS",
     "filename": "KSX-Levy-Jour-Asthma-2004.pdf"
   },
-  "2": {
+  
+  "8": {
     "title": "Is Clinical Wheezing Reliable as the Endpoint for Bronchial Challenges in Preschool Children?",
     "citation" : "Godfrey S, Uwyyed K, Springer C, Avital A; Pediatric Pulmonology 2004; (37): 193-200",
     "filepath": "assets/publications/ARM-PUBS",
-    "filename": "KSX-Godfrey-Study-Ped-Pulm-2004.pdf"
+    "filename": "KSX-GODFREY-STUDY-PED-PULM-2004.PDF"
   },
-  "3": {
+  
+  "9": {
     "title": "Adenosine Bronchial Provocation With Computerized Wheeze Detection in Young Infants with Prolonged Cough: Correlation With Long-term Follow-up",
     "citation" : "Bentur L, Beck R, Berkowitz D, Hasanin J, Berger I, Elias N, Gavriely N,' Pediatric Pulmonology 2004; (37):193-200",
     "filepath": "assets/publications/ARM-PUBS",
     "filename": "KSX-Bentur-CHEST-2004-Wheeze-Detection-Young-Infants.pdf"
   },
-  "4": {
+  
+  "10": {
     "title": "Pulmonary Acoustics and Esophageal pH Monitoring in Infantile Noctural Cough",
     "citation" : "Bentur L, Beck R, Berkowitz D, Hasanin J, Berger I, Gavriely N; Pediatric Asthma, Allergy & Immunology 2004; 17 (4), 262-272",
     "filepath": "assets/publications/ARM-PUBS",
     "filename": "KSX-Bentur-Ped-Asthm-Allerg-2004-262-171-ARM-in-infants-overnight.pdf"
   },
-  "5": {
+  
+  "11": {
     "title": "Nocturnal Wheeze Measurement in Young Asthmatics",
     "citation" : "Bentur L, Beck R, Irving C, Godfrey S; 17 (3), 191-197",
     "filepath": "assets/publications/ARM-PUBS",
     "filename": "KSX-Bentur-Ped-Asthma-Allergy-2004-Nocturnal.pdf"
   },
-  "6": {
+  
+  "12": {
+    "title": "Wheeze monitoring in children for assessment of nocturnal asthma and response to therapy",
+    "citation" : "Bentur L, Beck R, Shinawi M, Naveh T, Gavriely N; Eur Respir J 2003; 21: 621-626",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Bentur-Eur-Resp-J-2003-621-full.pdf"
+  },
+  
+  "13": {
     "title": "Wheeze monitoring in children for assessment of nocturnal asthma and response to therapy",
     "citation" : "Bentur L, Beck R, Shinawi M, Naveh T, Gavriely N; Eur Respir J 2003; 21: 621-626",
     "filepath": "assets/publications/ARM-PUBS",

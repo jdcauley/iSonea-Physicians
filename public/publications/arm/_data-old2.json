@@ -1,0 +1,38 @@
+{
+  "1": {
+    "title": "Wheeze Detection: Recordings vs. Assessment of Physician and Parent",
+    "citation": "Levy, M. L., Godfrey, S., Irving, C. S., Sheikh, A., Hanekom, W., Nurses, Ambulatory Care, Bush, A. and Lachman, P.; Journal of Asthma 2004; 41 (8), 845 - 853",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Levy-Jour-Asthma-2004.pdf"
+  },
+  "2": {
+    "title": "Is Clinical Wheezing Reliable as the Endpoint for Bronchial Challenges in Preschool Children?",
+    "citation" : "Godfrey S, Uwyyed K, Springer C, Avital A; Pediatric Pulmonology 2004; (37): 193-200",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Godfrey-Study-Ped-Pulm-2004.pdf"
+  },
+  "3": {
+    "title": "Adenosine Bronchial Provocation With Computerized Wheeze Detection in Young Infants with Prolonged Cough: Correlation With Long-term Follow-up",
+    "citation" : "Bentur L, Beck R, Berkowitz D, Hasanin J, Berger I, Elias N, Gavriely N,' Pediatric Pulmonology 2004; (37):193-200",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Bentur-CHEST-2004-Wheeze-Detection-Young-Infants.pdf"
+  },
+  "4": {
+    "title": "Pulmonary Acoustics and Esophageal pH Monitoring in Infantile Noctural Cough",
+    "citation" : "Bentur L, Beck R, Berkowitz D, Hasanin J, Berger I, Gavriely N; Pediatric Asthma, Allergy & Immunology 2004; 17 (4), 262-272",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Bentur-Ped-Asthm-Allerg-2004-262-171-ARM-in-infants-overnight.pdf"
+  },
+  "5": {
+    "title": "Nocturnal Wheeze Measurement in Young Asthmatics",
+    "citation" : "Bentur L, Beck R, Irving C, Godfrey S; 17 (3), 191-197",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Bentur-Ped-Asthma-Allergy-2004-Nocturnal.pdf"
+  },
+  "6": {
+    "title": "Wheeze monitoring in children for assessment of nocturnal asthma and response to therapy",
+    "citation" : "Bentur L, Beck R, Shinawi M, Naveh T, Gavriely N; Eur Respir J 2003; 21: 621-626",
+    "filepath": "assets/publications/ARM-PUBS",
+    "filename": "KSX-Bentur-Eur-Resp-J-2003-621-full.pdf"
+  }
+}
